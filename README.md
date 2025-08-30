@@ -62,14 +62,6 @@
 
 ---
 
-### 🌟 Live Surreal Coding  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="500" />
-</p>
-
----
-
 ### 📈 Visitor Counter  
 
 <p align="center">
@@ -79,16 +71,12 @@
 
 ---
 
-### 🎯 Surreal Fun Facts  
+### 🎯 Fun (and Slightly Surreal) Facts  
 
-- I **turn caffeine ☕ into code 💻** and ideas into cosmic reality 🌠.  
-- Always learning, building, and contributing 🔮.  
-- Believe in <b style="color:#FF00FF">"Code. Create. Conquer."</b> in an infinite digital cosmos 🌌.  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9KVH2Z0nlcQ7h87y/giphy.gif" width="400" />
-</p>
+- I **think in code 💻** and occasionally wonder if caffeine ☕ is my spirit animal.  
+- I love **learning**, building random projects, and occasionally overthinking 🔮.  
+- I’m obsessed with **open-source**, even if I sometimes hoard my own code 🖤.  
 
 <p align="center">
-  <i>Step into my surreal neon world of code ✨</i>
+  <img src=""C:\Users\yashn\Downloads\gif.gif"" width="400" />
 </p>
