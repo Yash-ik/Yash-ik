@@ -17,7 +17,7 @@
 🌍 I breathe **open-source**, but hates sharing code . <br> 
 🎹 Pianist 🎬 Filmmaker 🎵 Music . <br> 
 💡 Motto: <i>""</i> 
-</div> change about me
+</div> 
 ---
 
 ### 🤝 Connect with Me  
@@ -76,6 +76,8 @@
 - I **think in code 💻** and occasionally wonder if caffeine ☕ is my spirit animal.  
 - I love **learning**, building random projects, and occasionally overthinking 🔮.  
 - I’m obsessed with **open-source**, even if I sometimes hoard my own code 🖤.  
+
+---
 
 <p align="center">
   <img src=""C:\Users\yashn\Downloads\gif.gif"" width="400" />
