@@ -18,17 +18,10 @@
 🎹 Pianist 🎬 Filmmaker 🎵 Music . <br> 
 💡 Motto: <i>""</i> 
 </div> 
----
-
-### 🤝 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yash-naik-883543355" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" /></a>
-  <a href="https://www.instagram.com/yash._.n" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" /></a>
-  <a href="https://github.com/yash-ik" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" /></a>
-</p>
 
 ---
+
+
 
 ### 🛠️ My Neon Tech Stack  
 
@@ -45,6 +38,8 @@
   <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white&labelColor=111111" />
 </marquee>
 </div>
+
+
 
 ---
 
@@ -71,7 +66,16 @@
 
 ---
 
-### 🎯 Fun (and Slightly Surreal) Facts  
+---
+
+### 🤝 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-naik-883543355" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" /></a>
+  <a href="https://www.instagram.com/yash._.n" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" /></a>
+  <a href="https://github.com/yash-ik" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" /></a>
+</p>
+<!-- ### 🎯 Fun (and Slightly Surreal) Facts  
 
 - I **think in code 💻** and occasionally wonder if caffeine ☕ is my spirit animal.  
 - I love **learning**, building random projects, and occasionally overthinking 🔮.  
