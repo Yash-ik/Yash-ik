@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00FFFF&center=true&width=700&lines=Hey+There+%F0%9F%91%8B;I'm+Yash+Naik;Open-Source+Wizard+%26+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00FFFF&center=true&width=700&lines=Hey+There+%F0%9F%91%8B;I'm+Yash+Naik;Open-Source+errrrrrrr" alt="Typing SVG" />
   </h1>
 </div>
 
@@ -13,12 +13,12 @@
 ###  About Me  
 
 <div align="center">
-🚀 <b style="color:#00FFFF">Code. Create. Conquer.</b> <br>
-⚡ Mastering <b style="color:#FF00FF">C++</b> while fluent in <b style="color:#FFD700">Python 🐍</b> & <b style="color:#1E90FF">Java ☕</b>. <br>
-🌍 Open-source enthusiast 🌟 Building, breaking & innovating for fun. <br>
-🎹 Pianist 🎬 Filmmaker 🎵 Music explorer – blending logic & art. <br>
-💡 Motto: <i>"If I don’t know it today, I’ll master it tomorrow!"</i>
-</div>
+✨ i loove philosophy <br> 
+⚡ learning <b style="color:#FF00FF">C++</b> ,loves <b style="color:#00FFFF">Python 🐍</b> & hates <b style="color:#FFD700">Java ☕</b>. <br> 
+🌍 I breathe **open-source**, but hate sharing code . <br> 
+🎹 Pianist 🎬 Filmmaker 🎵 Music . <br> 
+💡 Motto: <i>"please dont reedem it"</i> 
+</div> 
 
 ---
 
