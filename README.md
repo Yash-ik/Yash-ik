@@ -44,16 +44,10 @@
 ---
 
 ### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-ik&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-<p align="center">
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-ik&show_icons=true&theme=tokyonight)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-ik&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-ik&theme=dracula&hide_border=true" />
-</p>
+
 
 ---
 
@@ -64,9 +58,7 @@
 </p>
 
 
----
-
----
+------
 
 ### 🤝 Connect with Me  
 
