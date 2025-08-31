@@ -72,8 +72,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-naik-883543355" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" /></a>
-  <a href="https://www.instagram.com/yash._.n" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" /></a>
-  <a href="https://github.com/yash-ik" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" /></a>
+  <a href="https://www.instagram.com/yash._.n" target="_blank"><img width="51" height="51" alt="image" src="https://github.com/user-attachments/assets/34197642-b27f-4695-81e1-ff3e82aeda0e" />
+</a>
 </p>
 <!-- ### 🎯 Fun (and Slightly Surreal) Facts  
 
