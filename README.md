@@ -9,18 +9,17 @@
 ### 🌌 About Me  
 
 <div align="center">
-✨ i loove philosophy <br> 
-⚡ learning <b style="color:#FF00FF">C++</b> loves <b style="color:#00FFFF">Python 🐍</b> & hates <b style="color:#FFD700">Java ☕</b>. <br> 
-🌍 I breathe open-source, but hates sharing code . <br> 
+✨i loove philosophy <br> 
+   learning <b style="color:#FF00FF">C++</b> loves <b style="color:#00FFFF">Python 🐍</b> & hates <b style="color:#FFD700">Java ☕</b>. <br> 
+   I breathe open-source, but hate sharing code . <br> 
 🎹 Pianist 🎬 Filmmaker 🎵 Music . <br> 
-💡 Motto: <i>""</i> 
 </div> 
 
 ---
 
 
 
-### 🛠️ My Neon Tech Stack  
+### 🛠️ My Neon Skills Stack  
 
 <div align="center">
   <marquee scrollamount="12" behavior="scroll" direction="left">
