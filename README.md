@@ -2,9 +2,6 @@
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=FF00FF&center=true&width=700&lines=👁️‍🗨️+Greetings+gitter;I'm+Yash+Naik;Open-Source+errr......." alt="Typing SVG" />
   </h1>
-  <p>
-    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="350"/>
-  </p>
 </div>
 
 ---
@@ -74,7 +71,7 @@
 ### 🤝 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yash-naik-883543355" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" /></a>
+  <a href="https://www.linkedin.com/in/yash-naik-883543355" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" /></a>
   <a href="https://www.instagram.com/yash._.n" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" /></a>
   <a href="https://github.com/yash-ik" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" /></a>
 </p>
