@@ -10,7 +10,7 @@
 
 <div align="center">
 i loove Mini projects  <br> 
-   currently learning <b style="color:#FF00FF">C++,</b> loves <b style="color:#00FFFF">Python 🐍</b> & hates <b style="color:#FFD700">Java ☕</b>. <br> 
+   currently learning <b style="color:#FF00FF">C++,</b> loves <b style="color:#00FFFF">Python 🐍</b> &  Java ☕ <b style="color:#FFD700"> is shit</b>. <br> 
    I breathe open-source, but hate sharing code . <br> 
 🎹 Pianist 🎬 Filmmaker 🎵 Music . <br> 
 </div> 
